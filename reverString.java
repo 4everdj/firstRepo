@@ -1,5 +1,5 @@
 public class CharAndReverse {
-
+bad bad bad
 	public static void main(String[] args) {
 		strBychar("cat");
 		strRev("dog");
