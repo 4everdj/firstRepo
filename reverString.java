@@ -1,4 +1,5 @@
 public class CharAndReverse {
+good good good
 
 	public static void main(String[] args) {
 		strBychar("cat");
@@ -24,5 +25,8 @@ public class CharAndReverse {
 			reverse += str.charAt(i);
 		}
 		return reverse;
+
+
 	}
+	System.out.print
 }
