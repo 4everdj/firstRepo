@@ -1,6 +1,6 @@
 public class CharAndReverse {
 good good good
-
+bad bad bad
 	public static void main(String[] args) {
 		strBychar("cat");
 		strRev("dog");
